@@ -50,7 +50,26 @@ header{
   background-color: #ABCFE6;
 }
 
+.contain-col{
+  background-color: #0086FF;
+  padding: 25px 0;
+}
 
+.col{
+  float: left;
+  height: 550px;
+}
+
+.contain-col aside{
+  width: 20%;
+  background-color: #ABCFE6;
+}
+
+.col-centre{
+  width: 57%;
+  margin: 0 1.5%;
+  background-color: #ABCFE6;
+}
 
 
 
