@@ -10,11 +10,10 @@
 .container{
   width: 80%;
   max-width: 1200px;
-  min-width: 600;
   margin: 0 auto;
 }
 
-header, main, .jumbotron{
+header, .jumbotron, footer{
   margin-bottom: 30px;
 }
 
@@ -76,3 +75,8 @@ header{
 /* 
   FOOTER
 */
+footer{
+  height: 60px;
+  background-color: #8800FF;
+  margin-top: 10px;
+}
